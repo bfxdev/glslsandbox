@@ -1,3 +1,5 @@
+// Diverging wave propagation by bfxdev
+
 #ifdef GL_ES
 precision mediump float;
 #endif
