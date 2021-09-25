@@ -1,5 +1,5 @@
 // Fixed Mandelbrot set with visible sequence of points in complex plane (starting at mouse position)
-// By blogoben, visit blogoben.wordpress.com
+// By bfxdev
 #ifdef GL_ES
 precision highp float;
 #endif
