@@ -57,7 +57,7 @@ Classical [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) with wi
 
 The fractal is rendered with [circular orbit traps](https://en.wikipedia.org/wiki/Orbit_trap).
 
-## [Mandelbrot and Julia sets with sequence of points](http://glslsandbox.com/e#6688)
+## [Mandelbrot and Julia sets with sequence of points](https://glslsandbox.com/e#75355.0)
 
 Superposition of a Julia set on top of the Mandelbrot set, where the reference point on the Julia set corresponds to the position of the mouse pointer on the Mandelbrot set:
 
