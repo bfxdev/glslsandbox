@@ -1,4 +1,4 @@
-// Another Mandelbrot viewer by blogoben, visit http://blogoben.wordpress.com
+// Another Mandelbrot viewer by bfxdev
 
 // Mouse horizontal: color palette
 // Mouse vertical:   zoom speed and amplitude
