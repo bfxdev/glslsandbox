@@ -1,5 +1,5 @@
 // Text scroll revival
-// By blogoben, December 2012
+// By bfxdev, December 2012
 
 // GLSL magick
 #ifdef GL_ES
