@@ -1,5 +1,4 @@
-// Water simulation based on discretized wave equation by blogoben
-// Visit http://blogoben.wordpress.com
+// Water simulation based on discretized wave equation by bfxdev
 
 // Features:
 //  - Simulation of the wave equation (l is the level at a given position): d²l/dx² + d²l/dy² = c²d²l/dt²
