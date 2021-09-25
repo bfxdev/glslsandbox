@@ -1,4 +1,4 @@
-// Mini raytracer from scratch by blogoben, work in progress
+// Mini raytracer from scratch by bfxdev
 // 3004.0:  plane with glowing checker texture and camera rotations
 // 3004.1:  changed order of rotations and factors for camera control
 // 3004.2:  extensive re-factoring, addition of flat-rendered spheres
